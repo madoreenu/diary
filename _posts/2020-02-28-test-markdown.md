@@ -2,7 +2,7 @@
 layout: post
 title: Sample blog post
 subtitle: How to use markdown
-gh-repo: madoreenu/diary
+gh-repo: madoreenu/diary/
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
