@@ -2,6 +2,9 @@
 
 # Name of website
 title: Mado's diary
+url: "https://madoreenu.github.io"
+baseurl: "/diary"
+
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -165,7 +168,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Tokyo"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
