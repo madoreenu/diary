@@ -31,3 +31,10 @@ Good night!
 - Spatial vector (Math B)
 - Nutrition (about calcium etc)
 - Jewish history and about Jesus
+
+## Today's momee
+
+[Click here](https://en.momee.work/diary/2020-06-23-today/)
+
+My friend Momiyama inspired me to make this diary.
+I think he studies a lot every day, so if you want to learn something useful, I strongly recommend you to read HIS diary. Not mine.
