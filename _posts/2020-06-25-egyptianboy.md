@@ -15,7 +15,7 @@ And I was taught physics by Momiyama today, so I understood how drawing graphs i
 I suck at physics and chemistry...
 
 And I have to take geography and economy notes and practice the violin...
-But I want to practice other instruments too, I want to draw stuff, I want to make a homemade web-shooting toy, and I want to sleep all day every day:(
+But I want to practice other instruments too, I want to draw stuff, I want to make a homemade web-shooting toy, and I want to sleep all day every day :(
 
 I love days off. I promise nothing is more important than them.
 But today is still Thursday. I will have to go to the cram school tomorrow.
