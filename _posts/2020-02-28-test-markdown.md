@@ -4,7 +4,7 @@ title: Sample blog post
 subtitle: How to use markdown
 gh-repo: madoreenu/diary/
 gh-badge: [star, fork, follow]
-tags: [2020]
+tags: [test]
 comments: true
 ---
 

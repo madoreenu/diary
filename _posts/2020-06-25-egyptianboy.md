@@ -4,7 +4,7 @@ title: Drawing graphs test
 subtitle: I suck at physics
 gh-repo: madoreenu/diary/
 gh-badge: [star, fork, follow]
-tags: [2020]
+tags: [2o20]
 comments: true
 ---
 I got full marks on my maths exam of drawing graphs. I was relieved.

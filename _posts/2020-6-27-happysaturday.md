@@ -4,7 +4,7 @@ title: Happy happy Saturday
 subtitle: I wish every day was Saturday
 gh-repo: madoreenu/diary/
 gh-badge: [star, fork, follow]
-tags: [2020]
+tags: [2o20]
 comments: true
 ---
 Thank God it's Saturday!
