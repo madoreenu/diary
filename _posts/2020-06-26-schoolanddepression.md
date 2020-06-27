@@ -4,7 +4,7 @@ title: Depression
 subtitle: I don't want to do anything now
 gh-repo: madoreenu/diary/
 gh-badge: [star, fork, follow]
-tags: [diary]
+tags: [2020]
 comments: true
 ---
 Today, I didn't want to go to school but I didn't know why.

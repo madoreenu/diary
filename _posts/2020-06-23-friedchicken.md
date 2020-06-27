@@ -4,7 +4,7 @@ title: Squeezing lemon over fried chicken
 subtitle: Do you mind?
 gh-repo: madoreenu/diary/
 gh-badge: [star, fork, follow]
-tags: [diary]
+tags: [2020]
 comments: true
 ---
 
